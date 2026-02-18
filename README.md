@@ -5,3 +5,4 @@ Collection of links to be used on a car browser
 * [RayPlay](https://www.raiplay.it)
 * [Google](https://www.google.com)
 * [YouTube](https://www.youtube.com)
+* [DuckDuckGo](https://duckduckgo.com)
